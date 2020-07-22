@@ -4,10 +4,7 @@ class String
 
   def sentence?
     "Hi!".end_with?("!")
-  else
-    false
   end
-end
 
   def question?
 
